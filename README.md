@@ -53,14 +53,4 @@
 
 ###
 
-<h3 align="center">Profile Views:</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LucasGSCampos/count.svg?"  />
-</div>
-
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f51682&height=120&section=footer"/>
