@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasGSCampos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasGSCampos&layout=compact&hide_border=true&title_color=0593A2&text_color=00bfbf&bg_color=0d1118"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGSCampos&layout=compact&hide_border=true&title_color=0593A2&text_color=00bfbf&bg_color=0d1118"  />
 </div>
 
