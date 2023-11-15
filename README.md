@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/778494151773847826/214231A4122AC0492F8EE017FF003FAF512A53A7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+  <img height="500" src="https://steamuserimages-a.akamaihd.net/ugc/778494151773847826/214231A4122AC0492F8EE017FF003FAF512A53A7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 </div>
 
 ###
