@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasGSCampos&layout=compact&hide_border=false&title_color=f51682&text_color=fff&bg_color=0d1118" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGSCampos&layout=compact&hide_border=true&title_color=f51682&text_color=fff&bg_color=0d1118"  height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGSCampos&layout=compact&hide_border=false&title_color=f51682&text_color=fff&bg_color=0d1118"  height="150" />
 </div>
 
 ###
